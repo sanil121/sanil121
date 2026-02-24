@@ -29,7 +29,6 @@
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -77,7 +76,7 @@ A real-time messaging application built with the MERN stack and Socket.IO.
 🔒 JWT authentication for secure user sessions  
 📱 Mobile-friendly UI with Tailwind CSS  
 👤 1-on-1 chat functionality with online status indicators  
-🌐 [Live Demo](https://chatapp-kaushlendra.onrender.com)
+🌐 [Live Demo](https://chatapp-application-new.onrender.com)
 
 ### 💼 Job Portal App
 <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" alt="MERN Stack"/>
@@ -93,7 +92,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 📊 Real-time error tracking and performance monitoring with Sentry  
 🌐 Production deployment on Vercel with CI/CD workflows  
 📄 Resume upload and management features  
-🌐 [Live Demo](https://job-portal-app-neww-client.vercel.app/)
+🌐 [Live Demo](https://job-portal-app-client-puce.vercel.app/)
 
 </div>
 
@@ -109,7 +108,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 
 
 ### 📚 Education
-- **B.Tech in CSE (2022-2026)**: CGPA 7.27
+- **B.Tech in CSE (2022-2026)**: CGPA 7.38
 - **Class 12**: 81.8%
 - **Class 10**: 90.75%
 
@@ -126,7 +125,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 ## 👨‍💻 Coding Profiles
 </div>
 <div align="center">
-  <a href="https://leetcode.com/u/SANIL_GHOSH//">
+  <a href="https://leetcode.com/u/Sanilll/">
     <img src="https://leetcard.jacoblin.cool/SANIL_GHOSH?theme=dark&font=baloo" alt="LeetCode Stats"/>
   </a>
 </div>
