@@ -123,12 +123,6 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 </div>
 
 ## 👨‍💻 Coding Profiles
-</div>
-<div align="center">
-  <a href="https://leetcode.com/u/Sanilll/">
-    <img src="https://leetcard.jacoblin.cool/SANIL_GHOSH?theme=dark&font=baloo" alt="LeetCode Stats"/>
-  </a>
-</div>
 
 
 <div align="center">
