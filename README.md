@@ -132,7 +132,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanil121&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://leetcard.jacoblin.cool/Sanilll?theme=dark&font=baloo" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
